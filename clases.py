@@ -84,3 +84,4 @@ print(lista1[0])
 print (f"numeros de p1: {persona1.numeros()}")
 
 #Despues agregar la condicion de que no se repitan los valores
+print("hola")
